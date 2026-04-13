@@ -8,9 +8,9 @@
   自身の強みを活かしながら技術力の向上と積極的なコミュニケーションを通じて、お客様の課題解決に貢献できるエンジニアを目指します。
 
 ## ◆　技術・資格
-    ・日本語能力試験 N2
-    ・Java Bronze
-    ・TOEIC 895
+    ・日本語能力試験 JLPT N2
+    ・2026年3月 Oracle Certified Java Programmer, Bronze SE
+    ・2026年3月 TOEIC 895
 # ｜｜連絡先｜ ｜
 ～イーメール～
       w25017@osfl.ac.jp
