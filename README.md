@@ -9,8 +9,8 @@
 
 ## ◆　技術・資格
     ・2024年12月日本語能力試験 JLPT N2
-    ・2026年3月 Oracle Certified Java Programmer, Bronze SE
-    ・2026年3月 TOEIC 895
+    ・2026年2月 Oracle Certified Java Programmer, Bronze SE
+    ・2026年1月 TOEIC 895
 # ｜｜連絡先｜ ｜
 ～イーメール～
       w25017@osfl.ac.jp
