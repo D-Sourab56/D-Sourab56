@@ -10,6 +10,7 @@
     ・2024年12月  日本語能力試験 JLPT N2
     ・2026年2月   Oracle Certified Java Programmer, Bronze SE
     ・2026年1月   TOEIC 895
+    ・2026年4月   CompTECH+
 # ｜｜連絡先｜ ｜
     ・E-MAIL ADDRESS
       w25017@osfl.ac.jp
